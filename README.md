@@ -19,6 +19,12 @@ A passionate **Cybersecurity Enthusiast** and **Developer** from Coimbatore, TN.
 
 ---
 
+### 📂 Featured Repositories:
+- [Penetration Testing Framework](https://github.com/your-repo)
+- [IT Security Log Analyzer](https://github.com/your-repo)
+
+---
+
 ### 🌱 **Always Learning**:
 - I’m constantly sharpening my cybersecurity skills through **bug bounties**, learning new technologies, and contributing to **open-source** projects. 🚀  
   Every day is a chance to learn, grow, and share knowledge with the community!
