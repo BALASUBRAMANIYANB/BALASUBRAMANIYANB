@@ -54,14 +54,14 @@ A passionate **Cybersecurity Enthusiast** and **Developer** from Coimbatore, TN.
 ---
 
 # 📊 **GitHub Stats**:
-![](https://github-readme-stats.vercel.app/api?username=BALASUBRAMANIYAN&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BALASUBRAMANIYAN&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBRAMANIYAN&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=BALASUBRAMANIYANB&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BALASUBRAMANIYANB&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BALASUBRAMANIYANB&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 **GitHub Trophies**:
-![](https://github-profile-trophy.vercel.app/?username=BALASUBRAMANIYAN&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=BALASUBRAMANIYANB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -71,11 +71,11 @@ A passionate **Cybersecurity Enthusiast** and **Developer** from Coimbatore, TN.
 ---
 
 ### 🔝 **Top Contributed Repo**:
-![](https://github-contributor-stats.vercel.app/api?username=BALASUBRAMANIYAN&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=BALASUBRAMANIYANB&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=BALASUBRAMANIYAN&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BALASUBRAMANIYANB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
