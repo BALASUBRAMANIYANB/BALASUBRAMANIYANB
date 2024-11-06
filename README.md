@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hey there! 👋 I'm **Balasubramaniyan B.** 🚀  
-A passionate **Cybersecurity Enthusiast**,**Penetration Tester** and **Developer** from Coimbatore, TN. I thrive on solving complex security challenges and making the web a safer place! Here’s a little about what I do:
+A passionate **Cybersecurity Enthusiast**, **Penetration Tester** and **Developer** from Coimbatore, TN. I thrive on solving complex security challenges and making the web a safer place! Here’s a little about what I do:
 
 ---
 
@@ -17,6 +17,16 @@ A passionate **Cybersecurity Enthusiast**,**Penetration Tester** and **Developer
 ### 🔧 **Projects I’ve Worked On**:
 - **🛠 Python-based Web Application Penetration Testing Framework**: Streamlined vulnerability detection to make penetration testing smarter and faster.
 - **🛡️ Bash-based Security Tools**: Custom tools to analyze logs and improve system security with automation.
+
+---
+
+### 🔧 **My Projects**:
+1. **Security Log Analyser**: Developed a tool for analyzing system logs, aiding in the detection of suspicious activity and enhancing system auditing.
+2. **Web Application Testing Using Selenium**: Automated web application testing with Selenium to identify potential security vulnerabilities.
+3. **Vulnerability Scanning Using Nessus**: Conducted comprehensive scans to identify security flaws using Nessus, providing insights for vulnerability management.
+4. **Packet Capturing Using Burp Suite**: Captured and analyzed web traffic using Burp Suite to identify and mitigate security risks in data transmission.
+5. **Steganography**: Explored and implemented data hiding techniques to enhance data confidentiality and integrity.
+6. **Portfolio Website**: Designed and developed a personal portfolio showcasing skills, projects, and accomplishments using HTML, CSS, and JavaScript.
 
 ---
 
