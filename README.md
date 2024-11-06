@@ -1,11 +1,12 @@
 # 💫 About Me:
 ### Hey there! 👋 I'm **Balasubramaniyan B.** 🚀  
-A passionate **Cybersecurity Enthusiast** and **Developer** from Coimbatore, TN. I thrive on solving complex security challenges and making the web a safer place! Here’s a little about what I do:
+A passionate **Cybersecurity Enthusiast**,**Penetration Tester** and **Developer** from Coimbatore, TN. I thrive on solving complex security challenges and making the web a safer place! Here’s a little about what I do:
 
 ---
 
 ### 💻 **What I Do**:
-- **🔐 Cybersecurity & Ethical Hacking**: Specializing in **Web Application and Network Penetration Testing**, continuously hunting vulnerabilities and securing systems.
+- **🔐 Cybersecurity & Ethical Hacking**: Specializing in **Web Application and Network Penetration Testing (VAPT)**, continuously hunting vulnerabilities and securing systems.
+- **📈 Security Operations Center (SOC)**: Skilled in monitoring, analyzing, and responding to security alerts and incidents to maintain robust cybersecurity defenses.
 - **🐍 Python Scripting**: Automating security tasks and building powerful, efficient tools for penetration testing.
 - **🛡️ Bash Scripting Master**: Developed a comprehensive **IT Security Log Analyzer** to detect suspicious activities and enhance system auditing.
 - **🗄️ SQL Specialist**: Adept at database management and identifying **SQL injection vulnerabilities**.
@@ -69,7 +70,6 @@ A passionate **Cybersecurity Enthusiast** and **Developer** from Coimbatore, TN.
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
-
 
 ---
 
