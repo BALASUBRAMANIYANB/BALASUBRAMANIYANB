@@ -1,193 +1,207 @@
 <div align="center">
 
-# Balasubramaniyan B
+# BALASUBRAMANIYAN B
 
-### Penetration Tester · Application Security · Red Team
+### I find the weak link. I explain the risk. I help teams fix it.
 
-Based in India · Open to cybersecurity opportunities in Germany
+**Penetration Testing · Application Security · Red Team**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balasubramaniyanbb)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:balasubramaniyanbalaiya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BALASUBRAMANIYANB)
+[LinkedIn](https://www.linkedin.com/in/balasubramaniyanbb) ·
+[Email](mailto:balasubramaniyanbalaiya@gmail.com) ·
+[Projects](https://github.com/BALASUBRAMANIYANB?tab=repositories)
+
+**India → Germany · Open to relocation · German A1, currently learning**
 
 </div>
 
 ---
 
-## About
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│  TEST  →  VALIDATE  →  EXPLAIN  →  REMEDIATE                     │
+│                                                                  │
+│  30+ security engagements       40+ critical / high findings     │
+│  4 red team engagements         18 findings beyond scanner output│
+└──────────────────────────────────────────────────────────────────┘
+```
 
-I am a penetration tester and cybersecurity researcher with nearly two years of full-time security experience, in addition to earlier internships. My work includes web application, API, network, and infrastructure security assessments, red team operations, vulnerability research, and security tool development.
+## The work
 
-Across 30+ engagements, I have identified 40+ critical and high-severity vulnerabilities. I document findings with CVSS scores, explain their practical impact, and provide remediation guidance for technical and management audiences.
+I’m a penetration tester and cybersecurity researcher with nearly two years of full-time security experience, plus earlier internships.
 
-I also build tools to support security testing and software quality. My public projects include a passive HTTP security configuration checker and research prototypes for vulnerability assessment and behavioral anomaly detection.
+I test web applications, APIs, networks, and infrastructure. I also build tools that support assessment work and security-focused software evaluation. My reports connect technical evidence to practical risk, with CVSS scoring and remediation guidance for both engineers and decision-makers.
 
-- **Based in:** Ariyalur, Tamil Nadu, India
-- **Open to:** Cybersecurity roles in Germany and relocation
-- **Work authorization:** I will require the appropriate German work authorization
-- **Languages:** English (fluent); German (A1, currently studying)
-- **Current focus:** Penetration testing, application security, and secure software evaluation
-- **Certification in progress:** OSCP preparation through self-study
-
----
-
-## Focus Areas
-
-- Web application and API penetration testing
-- Network and infrastructure security assessments
-- Authentication and authorization testing
-- Vulnerability analysis, CVSS scoring, and remediation reporting
-- Red team operations and attack-path analysis
-- Security-focused code review and secure software evaluation
-- Python, Bash, and JavaScript security tooling
-- MITRE ATT&CK, OWASP Top 10, and security standards
+I’m currently focused on **penetration testing and application security roles in Germany**. I’m based in India and will need the appropriate German work authorization.
 
 ---
 
-## Selected Projects
+## Things I’ve built
 
-### [WebSec Check](https://github.com/BALASUBRAMANIYANB/websec-check)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Passive HTTP security configuration checker · Node.js**
+### `websec-check`
+**Passive HTTP security checks · Node.js**
 
-A command-line tool for reviewing common HTTP and HTTPS security configuration issues without active exploitation.
+A small CLI for checking the security configuration developers expose to the web.
 
-- Checks security headers, cookie attributes, CORS, redirects, cache controls, exposed HTTP methods, information disclosure, and `security.txt`.
-- Supports JSON output, configurable timeouts, and redirect limits.
-- Includes SSRF protections and automated tests.
-- Published as an npm package: [websec-check](https://www.npmjs.com/package/websec-check)
+- Reviews headers, cookies, CORS, redirects, cache controls, HTTP methods, information disclosure, and `security.txt`
+- Supports JSON output, timeout controls, and redirect limits
+- Includes SSRF protections and automated tests
 
-### [Sentinel-SDK](https://github.com/BALASUBRAMANIYANB/Sentinel-SDK)
+[Repository](https://github.com/BALASUBRAMANIYANB/websec-check) ·
+[npm package](https://www.npmjs.com/package/websec-check)
 
-**Black-box web application assessment framework · Python**
+</td>
+<td width="50%" valign="top">
 
-A plugin-based framework for assisting web application security assessments.
+### `Sentinel-SDK`
+**Black-box web assessment · Python**
 
-- Covers vulnerability classes including SQL injection, cross-site scripting, SSRF, IDOR, and authentication bypass.
-- Produces CVSS-scored findings for review.
-- Used during three external assessments; the project contributed to identifying 18 vulnerabilities that automated scanners had missed.
-- Assessment results were validated as part of the testing process.
+A plugin-based framework for supporting web application assessments.
 
-### [RREF — RedOps Recon & Exploitation Framework](https://github.com/BALASUBRAMANIYANB/RREF-RedOps-Recon-Exploitation-Framework-)
+- Covers SQL injection, XSS, SSRF, IDOR, and authentication bypass
+- Produces CVSS-scored findings for review
+- Used in three external assessments; helped identify 18 vulnerabilities missed by automated scanners
 
-**Security testing and red team tooling · Python and Bash**
+[Repository](https://github.com/BALASUBRAMANIYANB/Sentinel-SDK)
 
-A public repository for my RREF project. The repository includes prototype components and documentation; some scanner integrations are still planned.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-In my professional work, I also built and used in-house reconnaissance and assessment tooling during four red team engagements. That tooling reduced pentest cycle time by about 35%. These engagement results refer to the tooling used in that work and should not be read as a claim that every feature is implemented in this public repository.
+### `RREF`
+**Red team reconnaissance and assessment tooling · Python / Bash**
 
-### [Phantera](https://github.com/BALASUBRAMANIYANB/Phantera)
+A project for organizing reconnaissance, assessment workflows, and reporting.
 
-**Behavioral anomaly detection prototype · FastAPI, Streamlit, scikit-learn**
+The public repository includes prototype components; some scanner integrations are still planned. Separately, my in-house tooling was used across four red team engagements and reduced pentest cycle time by about 35%.
 
-A lab project exploring anomaly detection using keyboard and mouse interaction features.
+[Public repository](https://github.com/BALASUBRAMANIYANB/RREF-RedOps-Recon-Exploitation-Framework-)
 
-- Includes a feature-processing pipeline, model, API, and dashboard.
-- Evaluated in lab testing; results are prototype findings and should not be interpreted as production performance.
-- The project explores behavioral signals and anomaly scoring, with attention to data handling and privacy.
+</td>
+<td width="50%" valign="top">
 
----
+### `Phantera`
+**Behavioral anomaly detection · FastAPI / Streamlit / scikit-learn**
 
-## Professional Experience
+A lab prototype exploring whether interaction patterns can help flag anomalous sessions.
 
-### Freelance Software Engineer — Security-Focused Evaluation and Hardening
-**AfterQuery Experts · Remote · Aug 2026–Present**
+- Extracts keyboard and mouse behavior features
+- Includes a model pipeline, API, and dashboard
+- Experimental project; results are lab-only, not production performance claims
 
-- Build and harden evaluation tasks for AI coding agents.
-- Develop Playwright-based automated tests and regression checks.
-- Analyze web applications for UI, state, and localization issues.
-- Review and validate AI-generated software fixes.
+[Repository](https://github.com/BALASUBRAMANIYANB/Phantera)
 
-### Penetration Tester and Cybersecurity Research Analyst
-**Terra System Labs · Bengaluru, India · Dec 2024–Jul 2026**
-
-- Conducted 30+ web application, network, and infrastructure penetration tests for enterprise clients.
-- Identified 40+ critical and high-severity vulnerabilities across assessments.
-- Performed red team activities involving privilege escalation, lateral movement, and post-exploitation within authorized engagements.
-- Mapped adversary activity to MITRE ATT&CK and used custom command-and-control workflows.
-- Prepared CVSS-scored reports with remediation guidance for technical teams and executive stakeholders.
-- Built internal tools to support reconnaissance, vulnerability assessment, and reporting.
-- Designed a phishing simulation and security-awareness platform with campaign workflows, learning content, analytics, and reporting.
-
-### Full-Stack Developer, Security Focus
-**SkillKaster · Remote · Jun 2024–Dec 2024**
-
-- Built React.js and Node.js features for two production platforms.
-- Applied secure coding practices including input validation, authentication hardening, and Content Security Policy.
-- Identified 12+ injection and authentication vulnerabilities during security code reviews before deployment.
-
-### Cyber Crime Investigator Intern
-**Tamil Nadu Cyber Crime Wing · Coimbatore, India · Jun 2023–Jul 2023**
-
-- Investigated 20+ cybercrime incidents using digital forensics and Splunk log analysis.
-- Contributed findings to investigations and law-enforcement proceedings.
-- Improved evidence-collection triage, reducing mean time to evidence collection by about 20%.
-
-### VAPT Intern
-**BM Infosec Limited · Coimbatore, India · Jun 2022–Jul 2022**
-
-- Assessed 5+ platforms using Nessus and manual testing.
-- Documented eight critical findings with CVSS scores and remediation steps.
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Skills
+## Field notes
+
+### Application and API testing
+
+I test authentication, authorization, input handling, and common web vulnerability classes. I validate findings, assess practical impact, and write remediation guidance teams can act on.
+
+**Across 30+ engagements:** 40+ critical and high-severity vulnerabilities identified.
+
+### Infrastructure and red team work
+
+I’ve worked on authorized red team and infrastructure assessments involving privilege escalation, lateral movement, and post-exploitation. I map relevant activity to MITRE ATT&CK and communicate how control gaps combine into a larger risk.
+
+**Across four red team engagements:** internal tooling helped reduce pentest cycle time by about 35%.
+
+### Secure software and code review
+
+I’ve built production React.js and Node.js features, applied input validation, Content Security Policy, and authentication hardening, and found 12+ injection and authentication issues during security code reviews before deployment.
+
+---
+
+## Toolkit
 
 | Area | Skills |
 |---|---|
-| **Application security** | Web and API testing, authentication testing, authorization testing, vulnerability assessment, secure code review |
-| **Common vulnerability classes** | SQL injection, XSS, SSRF, IDOR, authentication bypass, privilege escalation |
-| **Infrastructure and red team** | Network testing, Active Directory attacks, lateral movement, post-exploitation, OSINT, attack-surface mapping |
-| **Tools** | Burp Suite, OWASP ZAP, Nmap, Nessus, Metasploit, SQLmap, Nikto, Wireshark, Kali Linux |
-| **Security operations** | Splunk, Wazuh, IDS/IPS, incident response, threat hunting, digital forensics |
-| **Programming** | Python, Bash, PowerShell, JavaScript, Node.js, SQL, Java, C |
-| **Development and cloud** | FastAPI, React.js, Playwright, Docker, AWS, Azure, GCP |
-| **Standards and frameworks** | OWASP Top 10, MITRE ATT&CK, CVSS, ISO/IEC 27001, ISO/IEC 27701, ISO/IEC 42001, NIST CSF, GDPR, NIS2, DORA TLPT, BSI IT-Grundschutz |
+| **Web & API** | Burp Suite · OWASP ZAP · SQLmap · Nikto · Playwright |
+| **Network & infrastructure** | Nmap · Nessus · Metasploit · Wireshark · Kali Linux |
+| **Security operations** | Splunk · Wazuh · IDS/IPS · Digital forensics |
+| **Build & automate** | Python · Bash · PowerShell · JavaScript · Node.js |
+| **Development** | FastAPI · React.js · Docker · SQL |
+| **Methods & frameworks** | OWASP Top 10 · MITRE ATT&CK · CVSS · NIST CSF |
+| **Standards & regulation** | ISO/IEC 27001 · ISO/IEC 27701 · ISO/IEC 42001 · GDPR · NIS2 · DORA TLPT · BSI IT-Grundschutz |
 
 ---
 
-## Certifications and Professional Development
+## Experience
 
-- **Lead Auditor:** ISO/IEC 27001:2022
-- **Lead Auditor:** ISO/IEC 27701:2025
-- **Lead Auditor:** ISO/IEC 42001:2023
-- **Fellow of Management Systems Auditing** — Mastermind Assurance, 2026
-- **CRTOM** — Red Team Leaders
-- **VAPT Specialist** — Bored Monk
-- **C3SA** — CyberWarfare Labs
-- **SOC Analyst** — LetsDefend.io
-- **OSCP:** Preparing through self-study
+**Freelance Software Engineer — Security-Focused Evaluation and Hardening**  
+*AfterQuery Experts · Remote · Aug 2026–Present*
+
+- Build and harden evaluation tasks for AI coding agents
+- Develop Playwright-based automated tests and regression checks
+- Analyze web applications and review generated software fixes
+
+**Penetration Tester and Cybersecurity Research Analyst**  
+*Terra System Labs · Bengaluru, India · Dec 2024–Jul 2026*
+
+- Delivered web application, network, and infrastructure assessments for enterprise clients
+- Identified critical and high-severity vulnerabilities and produced CVSS-scored reports
+- Conducted authorized red team activities, including privilege escalation and lateral movement
+- Built internal tooling for reconnaissance, assessment, and reporting
+- Designed a phishing simulation and security-awareness platform
+
+**Full-Stack Developer, Security Focus**  
+*SkillKaster · Remote · Jun 2024–Dec 2024*
+
+- Built React.js and Node.js features for two production platforms
+- Applied secure coding practices, input validation, CSP, and authentication hardening
+- Found 12+ injection and authentication vulnerabilities during code reviews
+
+**Earlier experience**
+
+- **Cyber Crime Investigator Intern** — Tamil Nadu Cyber Crime Wing · Jun–Jul 2023  
+  Investigated 20+ cybercrime incidents using digital forensics and Splunk log analysis.
+- **VAPT Intern** — BM Infosec Limited · Jun–Jul 2022  
+  Assessed 5+ platforms and documented eight critical findings.
 
 ---
+
+## Credentials
+
+- Lead Auditor — ISO/IEC 27001:2022
+- Lead Auditor — ISO/IEC 27701:2025
+- Lead Auditor — ISO/IEC 42001:2023
+- Fellow of Management Systems Auditing — 2026
+- CRTOM — Red Team Leaders
+- VAPT Specialist — Bored Monk
+- C3SA — CyberWarfare Labs
+- SOC Analyst — LetsDefend.io
+- OSCP — preparing through self-study
 
 ## Education
 
 **BSc Computer Science — Cloud Technology and Information Security**  
 Rathinam College of Arts and Science · 2021–2024  
-89% · First Class with Distinction
+**89% · First Class with Distinction**
 
----
+## Beyond the terminal
 
-## Publications and Achievements
-
-- Published a paper on security log analysis in the *International Journal of Progressive Research in Engineering Management and Science*, April 2024.
-- Kavach 2023 national cybersecurity hackathon: top 5% of teams.
-- TN Startup & Idea Hackathon 2.0: state-level finalist.
-- Participated in web and binary exploitation CTFs.
-- HackerRank: SQL 5-star, Python 3-star.
-
----
-
-## Responsible Security
-
-I conduct security testing only on systems where I have explicit authorization. Public projects are for education, defensive assessment, and authorized testing. Client names, sensitive data, and confidential engagement details are not published.
+- Kavach 2023 national cybersecurity hackathon — top 5% of teams
+- TN Startup & Idea Hackathon 2.0 — state-level finalist
+- Published research on security log analysis, April 2024
+- CTF participation in web and binary exploitation
 
 ---
 
 <div align="center">
 
-**Interested in penetration testing and application security opportunities in Germany.**
+### Curious about a finding, a tool, or a role?
 
-[LinkedIn](https://www.linkedin.com/in/balasubramaniyanbb) · [Email](mailto:balasubramaniyanbalaiya@gmail.com) · [GitHub repositories](https://github.com/BALASUBRAMANIYANB?tab=repositories)
+I’m happy to talk security engineering, authorized testing, and building tools that make assessments more useful.
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/balasubramaniyanbb) · [Email me](mailto:balasubramaniyanbalaiya@gmail.com)**
 
 </div>
